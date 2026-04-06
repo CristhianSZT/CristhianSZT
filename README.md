@@ -64,7 +64,7 @@ tecnológicas para instituciones federales, organismos públicos y empresas priv
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
