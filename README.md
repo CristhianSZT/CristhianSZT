@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hola, soy Cristhian Zavala</h1>
   <h3>Arquitecto de Software | Tech Lead | Full-Stack</h3>
-  <p>Tuxtla Gutiérrez, Chiapas, México • Disponible para trabajo remoto y presencial según acuerdo</p>
+  <p>Tuxtla Gutiérrez, Chiapas, México • Disponible para trabajo remoto</p>
 
   <a href="https://linkedin.com/in/cristhianszt">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -79,5 +79,5 @@ tecnológicas para instituciones federales, organismos públicos y empresas priv
 ---
 
 <div align="center">
-  <i>Disponible para trabajo remoto y presencial según acuerdo</i>
+  <i>Disponible para trabajo remoto</i>
 </div>
