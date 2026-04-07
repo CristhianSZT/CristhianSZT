@@ -69,10 +69,10 @@ tecnológicas para instituciones federales, organismos públicos y empresas priv
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [Portfolio](https://github.com/CristhianSZT/portfolio) | Portfolio personal fullstack con deploy en AWS | React, FastAPI, Docker |
-| SEGOB PNDH | Plataforma federal de Derechos Humanos | Laravel, Vue.js, AWS |
+| SEGOB PNDH | Plataforma federal de Derechos Humanos | Laravel, Vue.js, MySQL |
 | Apolo Platinum | Sistema de venta de boletos multi-sucursal | Laravel, Vue.js, Kotlin |
-| Certificaciones Cruz Roja | Gestión de certificaciones digitalizada | Laravel, Vue.js, MySQL |
-| Fortajus DH | Indicadores CJF — consulta pública | Laravel, Vue.js, AWS |
+| Certificaciones Cruz Roja | Gestión de certificaciones digitalizada | Laravel, Vue.js, AWS |
+| Fortajus DH | Indicadores CJF — consulta pública | Laravel, Vue.js, PostgreSQL |
 | Humaknity | App iOS con wearables Bluetooth | SwiftUI, CoreBluetooth |
 
 > Proyectos bajo acuerdo de confidencialidad con clientes institucionales.
