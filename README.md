@@ -72,7 +72,7 @@ tecnológicas para instituciones federales, organismos públicos y empresas priv
 | [Fortajus DH](https://github.com/CristhianSZT/case-study-segob-pndh) | Indicadores CJF — consulta pública | Laravel, Vue.js, PostgreSQL |
 | [CEEAIV Veracruz](https://github.com/CristhianSZT/case-study-ceeaiv-veracruz) | Atención víctimas - gestión operativa | Laravel, Vue.js, MySQL |
 | [SEGOB PNDH](https://github.com/CristhianSZT/case-study-segob-pndh) | Plataforma federal de Derechos Humanos | Laravel, Vue.js, MySQL |
-| Apolo Platinum | Sistema de venta de boletos multi-sucursal | Laravel, Vue.js, Kotlin |
+| [Apolo Platinum](https://github.com/CristhianSZT/case-study-apolo-platinum) | Sistema de venta de boletos multi-sucursal | Laravel, Vue.js, Kotlin |
 | Certificaciones Cruz Roja | Gestión de certificaciones digitalizada | Laravel, Vue.js, AWS |
 | Humaknity | App iOS con wearables Bluetooth | SwiftUI, CoreBluetooth |
 > Proyectos bajo acuerdo de confidencialidad con clientes institucionales.
