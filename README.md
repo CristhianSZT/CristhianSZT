@@ -101,7 +101,6 @@ Arquitecto de Software con más de 5 años de experiencia diseñando e implement
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CristhianSZT&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianSZT&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
