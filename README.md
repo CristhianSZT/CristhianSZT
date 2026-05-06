@@ -20,14 +20,14 @@
 
 ## 👨‍💻 Sobre mí
 
-Arquitecto de Software con más de 5 años diseñando e implementando soluciones tecnológicas para instituciones federales, organismos públicos y empresas privadas — desde el levantamiento presencial de requerimientos hasta el despliegue en producción.
+Arquitecto de Software con más de 5 años de experiencia diseñando e implementando soluciones tecnológicas para instituciones federales, organismos públicos y empresas privadas — desde el levantamiento presencial de requerimientos hasta el despliegue en producción.
 
 - 🏗️ Arquitectura end-to-end — modelado de BD, flujos de negocio, APIs y maquetas
 - 👥 Tech Lead de equipos de desarrollo (5+ devs)
-- 🏛️ Proyectos con SEGOB, Consejo de la Judicatura Federal, CEEAIV, Apolo Platinum
+- 🏛️ Proyectos con SEGOB, Consejo de la Judicatura Federal, CEEAIV Veracruz, Apolo Platinum
 - 📱 Desarrollo mobile nativo con SwiftUI (iOS) y Kotlin (Android)
-- 🤖 Integración de LLMs en flujos de arquitectura, documentación y desarrollo
-- 🌱 Aprendiendo activamente **React** y **FastAPI/Python**
+- 🤖 Integración de LLMs en soluciones productivas, flujos de arquitectura y desarrollo
+- 🌱 Aprendiendo activamente arquitectura hexagonal y RAG
 
 ---
 
@@ -53,6 +53,13 @@ Arquitecto de Software con más de 5 años diseñando e implementando soluciones
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
+**IA aplicada**
+
+![LLaMA](https://img.shields.io/badge/LLaMA-FF6B35?style=flat-square&logo=meta&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+
 **Infraestructura**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -60,6 +67,7 @@ Arquitecto de Software con más de 5 años diseñando e implementando soluciones
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Bases de Datos**
 
@@ -79,7 +87,7 @@ Arquitecto de Software con más de 5 años diseñando e implementando soluciones
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [Portfolio Personal](https://github.com/CristhianSZT/portfolio) | Portfolio fullstack con CI/CD y deploy en AWS EC2 | React · FastAPI · Docker |
+| [Portfolio Personal](https://github.com/CristhianSZT/portfolio) | Portfolio fullstack con chat IA integrado (LLaMA via Groq), CI/CD y deploy en AWS EC2 | React · FastAPI · Groq · Docker |
 | [SEGOB PNDH](https://github.com/CristhianSZT/case-study-segob-pndh) | Plataforma federal para seguimiento del Programa Nacional de Derechos Humanos — +20 instituciones | Laravel · Vue.js · MySQL |
 | [FORTAJUS DH](https://github.com/CristhianSZT/case-study-fortajus-dh) | Indicadores de DDHH para el CJF con integración ElasticSearch y API federal | .NET 8 · Vue.js 3 · SQL Server |
 | [CEEAIV Veracruz](https://github.com/CristhianSZT/case-study-ceeaiv-veracruz) | Digitalización del flujo operativo de atención a víctimas con integración API RENAVI | Laravel · Vue.js 3 · MySQL |
